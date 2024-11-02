@@ -1,0 +1,14 @@
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\4.Polymorphism-Lab\Animals\bin\Debug\net6.0\Animals.exe
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\4.Polymorphism-Lab\Animals\bin\Debug\net6.0\Animals.deps.json
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\4.Polymorphism-Lab\Animals\bin\Debug\net6.0\Animals.runtimeconfig.json
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\4.Polymorphism-Lab\Animals\bin\Debug\net6.0\Animals.dll
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\4.Polymorphism-Lab\Animals\bin\Debug\net6.0\Animals.pdb
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\4.Polymorphism-Lab\Animals\obj\Debug\net6.0\Animals.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\4.Polymorphism-Lab\Animals\obj\Debug\net6.0\Animals.AssemblyInfoInputs.cache
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\4.Polymorphism-Lab\Animals\obj\Debug\net6.0\Animals.AssemblyInfo.cs
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\4.Polymorphism-Lab\Animals\obj\Debug\net6.0\Animals.csproj.CoreCompileInputs.cache
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\4.Polymorphism-Lab\Animals\obj\Debug\net6.0\Animals.dll
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\4.Polymorphism-Lab\Animals\obj\Debug\net6.0\refint\Animals.dll
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\4.Polymorphism-Lab\Animals\obj\Debug\net6.0\Animals.pdb
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\4.Polymorphism-Lab\Animals\obj\Debug\net6.0\Animals.genruntimeconfig.cache
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\4.Polymorphism-Lab\Animals\obj\Debug\net6.0\ref\Animals.dll

@@ -1,0 +1,14 @@
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.1.InterfacesAndAbstraction-Exercise\FoodShortage\bin\Debug\net6.0\FoodShortage.exe
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.1.InterfacesAndAbstraction-Exercise\FoodShortage\bin\Debug\net6.0\FoodShortage.deps.json
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.1.InterfacesAndAbstraction-Exercise\FoodShortage\bin\Debug\net6.0\FoodShortage.runtimeconfig.json
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.1.InterfacesAndAbstraction-Exercise\FoodShortage\bin\Debug\net6.0\FoodShortage.dll
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.1.InterfacesAndAbstraction-Exercise\FoodShortage\bin\Debug\net6.0\FoodShortage.pdb
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.1.InterfacesAndAbstraction-Exercise\FoodShortage\obj\Debug\net6.0\FoodShortage.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.1.InterfacesAndAbstraction-Exercise\FoodShortage\obj\Debug\net6.0\FoodShortage.AssemblyInfoInputs.cache
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.1.InterfacesAndAbstraction-Exercise\FoodShortage\obj\Debug\net6.0\FoodShortage.AssemblyInfo.cs
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.1.InterfacesAndAbstraction-Exercise\FoodShortage\obj\Debug\net6.0\FoodShortage.csproj.CoreCompileInputs.cache
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.1.InterfacesAndAbstraction-Exercise\FoodShortage\obj\Debug\net6.0\FoodShortage.dll
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.1.InterfacesAndAbstraction-Exercise\FoodShortage\obj\Debug\net6.0\refint\FoodShortage.dll
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.1.InterfacesAndAbstraction-Exercise\FoodShortage\obj\Debug\net6.0\FoodShortage.pdb
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.1.InterfacesAndAbstraction-Exercise\FoodShortage\obj\Debug\net6.0\FoodShortage.genruntimeconfig.cache
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.1.InterfacesAndAbstraction-Exercise\FoodShortage\obj\Debug\net6.0\ref\FoodShortage.dll

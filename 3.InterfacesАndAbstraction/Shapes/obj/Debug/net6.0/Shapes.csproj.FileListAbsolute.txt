@@ -1,0 +1,14 @@
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.InterfacesАndAbstraction-Lab\Shapes\bin\Debug\net6.0\Shapes.exe
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.InterfacesАndAbstraction-Lab\Shapes\bin\Debug\net6.0\Shapes.deps.json
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.InterfacesАndAbstraction-Lab\Shapes\bin\Debug\net6.0\Shapes.runtimeconfig.json
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.InterfacesАndAbstraction-Lab\Shapes\bin\Debug\net6.0\Shapes.dll
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.InterfacesАndAbstraction-Lab\Shapes\bin\Debug\net6.0\Shapes.pdb
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.InterfacesАndAbstraction-Lab\Shapes\obj\Debug\net6.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.InterfacesАndAbstraction-Lab\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfoInputs.cache
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.InterfacesАndAbstraction-Lab\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfo.cs
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.InterfacesАndAbstraction-Lab\Shapes\obj\Debug\net6.0\Shapes.csproj.CoreCompileInputs.cache
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.InterfacesАndAbstraction-Lab\Shapes\obj\Debug\net6.0\Shapes.dll
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.InterfacesАndAbstraction-Lab\Shapes\obj\Debug\net6.0\refint\Shapes.dll
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.InterfacesАndAbstraction-Lab\Shapes\obj\Debug\net6.0\Shapes.pdb
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.InterfacesАndAbstraction-Lab\Shapes\obj\Debug\net6.0\Shapes.genruntimeconfig.cache
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.InterfacesАndAbstraction-Lab\Shapes\obj\Debug\net6.0\ref\Shapes.dll

@@ -1,0 +1,14 @@
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.1.InterfacesAndAbstraction-Exercise\Telephony\bin\Debug\net6.0\Telephony.exe
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.1.InterfacesAndAbstraction-Exercise\Telephony\bin\Debug\net6.0\Telephony.deps.json
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.1.InterfacesAndAbstraction-Exercise\Telephony\bin\Debug\net6.0\Telephony.runtimeconfig.json
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.1.InterfacesAndAbstraction-Exercise\Telephony\bin\Debug\net6.0\Telephony.dll
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.1.InterfacesAndAbstraction-Exercise\Telephony\bin\Debug\net6.0\Telephony.pdb
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.1.InterfacesAndAbstraction-Exercise\Telephony\obj\Debug\net6.0\Telephony.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.1.InterfacesAndAbstraction-Exercise\Telephony\obj\Debug\net6.0\Telephony.AssemblyInfoInputs.cache
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.1.InterfacesAndAbstraction-Exercise\Telephony\obj\Debug\net6.0\Telephony.AssemblyInfo.cs
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.1.InterfacesAndAbstraction-Exercise\Telephony\obj\Debug\net6.0\Telephony.csproj.CoreCompileInputs.cache
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.1.InterfacesAndAbstraction-Exercise\Telephony\obj\Debug\net6.0\Telephony.dll
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.1.InterfacesAndAbstraction-Exercise\Telephony\obj\Debug\net6.0\refint\Telephony.dll
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.1.InterfacesAndAbstraction-Exercise\Telephony\obj\Debug\net6.0\Telephony.pdb
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.1.InterfacesAndAbstraction-Exercise\Telephony\obj\Debug\net6.0\Telephony.genruntimeconfig.cache
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.1.InterfacesAndAbstraction-Exercise\Telephony\obj\Debug\net6.0\ref\Telephony.dll

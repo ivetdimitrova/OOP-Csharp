@@ -1,0 +1,14 @@
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.1.InterfacesAndAbstraction-Exercise\PersonInfo\bin\Debug\net6.0\PersonInfo.exe
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.1.InterfacesAndAbstraction-Exercise\PersonInfo\bin\Debug\net6.0\PersonInfo.deps.json
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.1.InterfacesAndAbstraction-Exercise\PersonInfo\bin\Debug\net6.0\PersonInfo.runtimeconfig.json
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.1.InterfacesAndAbstraction-Exercise\PersonInfo\bin\Debug\net6.0\PersonInfo.dll
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.1.InterfacesAndAbstraction-Exercise\PersonInfo\bin\Debug\net6.0\PersonInfo.pdb
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.1.InterfacesAndAbstraction-Exercise\PersonInfo\obj\Debug\net6.0\PersonInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.1.InterfacesAndAbstraction-Exercise\PersonInfo\obj\Debug\net6.0\PersonInfo.AssemblyInfoInputs.cache
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.1.InterfacesAndAbstraction-Exercise\PersonInfo\obj\Debug\net6.0\PersonInfo.AssemblyInfo.cs
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.1.InterfacesAndAbstraction-Exercise\PersonInfo\obj\Debug\net6.0\PersonInfo.csproj.CoreCompileInputs.cache
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.1.InterfacesAndAbstraction-Exercise\PersonInfo\obj\Debug\net6.0\PersonInfo.dll
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.1.InterfacesAndAbstraction-Exercise\PersonInfo\obj\Debug\net6.0\refint\PersonInfo.dll
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.1.InterfacesAndAbstraction-Exercise\PersonInfo\obj\Debug\net6.0\PersonInfo.pdb
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.1.InterfacesAndAbstraction-Exercise\PersonInfo\obj\Debug\net6.0\PersonInfo.genruntimeconfig.cache
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\3.1.InterfacesAndAbstraction-Exercise\PersonInfo\obj\Debug\net6.0\ref\PersonInfo.dll

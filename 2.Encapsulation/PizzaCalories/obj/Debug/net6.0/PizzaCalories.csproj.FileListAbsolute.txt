@@ -1,0 +1,14 @@
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\PizzaCalories\bin\Debug\net6.0\PizzaCalories.exe
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\PizzaCalories\bin\Debug\net6.0\PizzaCalories.deps.json
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\PizzaCalories\bin\Debug\net6.0\PizzaCalories.runtimeconfig.json
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\PizzaCalories\bin\Debug\net6.0\PizzaCalories.dll
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\PizzaCalories\bin\Debug\net6.0\PizzaCalories.pdb
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\PizzaCalories\obj\Debug\net6.0\PizzaCalories.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\PizzaCalories\obj\Debug\net6.0\PizzaCalories.AssemblyInfoInputs.cache
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\PizzaCalories\obj\Debug\net6.0\PizzaCalories.AssemblyInfo.cs
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\PizzaCalories\obj\Debug\net6.0\PizzaCalories.csproj.CoreCompileInputs.cache
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\PizzaCalories\obj\Debug\net6.0\PizzaCalories.dll
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\PizzaCalories\obj\Debug\net6.0\refint\PizzaCalories.dll
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\PizzaCalories\obj\Debug\net6.0\PizzaCalories.pdb
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\PizzaCalories\obj\Debug\net6.0\PizzaCalories.genruntimeconfig.cache
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\PizzaCalories\obj\Debug\net6.0\ref\PizzaCalories.dll

@@ -1,0 +1,14 @@
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\1.Inheritance-Lab\Farm\bin\Debug\net6.0\Farm.exe
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\1.Inheritance-Lab\Farm\bin\Debug\net6.0\Farm.deps.json
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\1.Inheritance-Lab\Farm\bin\Debug\net6.0\Farm.runtimeconfig.json
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\1.Inheritance-Lab\Farm\bin\Debug\net6.0\Farm.dll
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\1.Inheritance-Lab\Farm\bin\Debug\net6.0\Farm.pdb
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\1.Inheritance-Lab\Farm\obj\Debug\net6.0\Farm.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\1.Inheritance-Lab\Farm\obj\Debug\net6.0\Farm.AssemblyInfoInputs.cache
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\1.Inheritance-Lab\Farm\obj\Debug\net6.0\Farm.AssemblyInfo.cs
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\1.Inheritance-Lab\Farm\obj\Debug\net6.0\Farm.csproj.CoreCompileInputs.cache
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\1.Inheritance-Lab\Farm\obj\Debug\net6.0\Farm.dll
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\1.Inheritance-Lab\Farm\obj\Debug\net6.0\refint\Farm.dll
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\1.Inheritance-Lab\Farm\obj\Debug\net6.0\Farm.pdb
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\1.Inheritance-Lab\Farm\obj\Debug\net6.0\Farm.genruntimeconfig.cache
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\1.Inheritance-Lab\Farm\obj\Debug\net6.0\ref\Farm.dll

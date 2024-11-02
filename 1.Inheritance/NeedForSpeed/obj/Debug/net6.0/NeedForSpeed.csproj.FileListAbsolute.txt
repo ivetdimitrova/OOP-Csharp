@@ -1,0 +1,14 @@
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\1.1.Inheritance-Exercise\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.exe
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\1.1.Inheritance-Exercise\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.deps.json
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\1.1.Inheritance-Exercise\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.runtimeconfig.json
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\1.1.Inheritance-Exercise\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.dll
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\1.1.Inheritance-Exercise\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.pdb
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\1.1.Inheritance-Exercise\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\1.1.Inheritance-Exercise\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.AssemblyInfoInputs.cache
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\1.1.Inheritance-Exercise\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.AssemblyInfo.cs
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\1.1.Inheritance-Exercise\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.csproj.CoreCompileInputs.cache
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\1.1.Inheritance-Exercise\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.dll
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\1.1.Inheritance-Exercise\NeedForSpeed\obj\Debug\net6.0\refint\NeedForSpeed.dll
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\1.1.Inheritance-Exercise\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.pdb
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\1.1.Inheritance-Exercise\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.genruntimeconfig.cache
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\1.1.Inheritance-Exercise\NeedForSpeed\obj\Debug\net6.0\ref\NeedForSpeed.dll

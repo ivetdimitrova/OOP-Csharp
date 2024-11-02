@@ -1,0 +1,14 @@
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\1.1.Inheritance-Exercise\01.Person\bin\Debug\net6.0\01.Person.exe
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\1.1.Inheritance-Exercise\01.Person\bin\Debug\net6.0\01.Person.deps.json
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\1.1.Inheritance-Exercise\01.Person\bin\Debug\net6.0\01.Person.runtimeconfig.json
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\1.1.Inheritance-Exercise\01.Person\bin\Debug\net6.0\01.Person.dll
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\1.1.Inheritance-Exercise\01.Person\bin\Debug\net6.0\01.Person.pdb
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\1.1.Inheritance-Exercise\01.Person\obj\Debug\net6.0\01.Person.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\1.1.Inheritance-Exercise\01.Person\obj\Debug\net6.0\01.Person.AssemblyInfoInputs.cache
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\1.1.Inheritance-Exercise\01.Person\obj\Debug\net6.0\01.Person.AssemblyInfo.cs
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\1.1.Inheritance-Exercise\01.Person\obj\Debug\net6.0\01.Person.csproj.CoreCompileInputs.cache
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\1.1.Inheritance-Exercise\01.Person\obj\Debug\net6.0\01.Person.dll
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\1.1.Inheritance-Exercise\01.Person\obj\Debug\net6.0\refint\01.Person.dll
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\1.1.Inheritance-Exercise\01.Person\obj\Debug\net6.0\01.Person.pdb
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\1.1.Inheritance-Exercise\01.Person\obj\Debug\net6.0\01.Person.genruntimeconfig.cache
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\1.1.Inheritance-Exercise\01.Person\obj\Debug\net6.0\ref\01.Person.dll

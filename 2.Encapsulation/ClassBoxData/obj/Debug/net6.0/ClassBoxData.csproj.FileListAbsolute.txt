@@ -1,0 +1,14 @@
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\ClassBoxData\bin\Debug\net6.0\ClassBoxData.exe
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\ClassBoxData\bin\Debug\net6.0\ClassBoxData.deps.json
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\ClassBoxData\bin\Debug\net6.0\ClassBoxData.runtimeconfig.json
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\ClassBoxData\bin\Debug\net6.0\ClassBoxData.dll
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\ClassBoxData\bin\Debug\net6.0\ClassBoxData.pdb
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\ClassBoxData\obj\Debug\net6.0\ClassBoxData.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\ClassBoxData\obj\Debug\net6.0\ClassBoxData.AssemblyInfoInputs.cache
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\ClassBoxData\obj\Debug\net6.0\ClassBoxData.AssemblyInfo.cs
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\ClassBoxData\obj\Debug\net6.0\ClassBoxData.csproj.CoreCompileInputs.cache
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\ClassBoxData\obj\Debug\net6.0\ClassBoxData.dll
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\ClassBoxData\obj\Debug\net6.0\refint\ClassBoxData.dll
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\ClassBoxData\obj\Debug\net6.0\ClassBoxData.pdb
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\ClassBoxData\obj\Debug\net6.0\ClassBoxData.genruntimeconfig.cache
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\ClassBoxData\obj\Debug\net6.0\ref\ClassBoxData.dll

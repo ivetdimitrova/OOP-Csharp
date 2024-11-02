@@ -1,0 +1,14 @@
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.exe
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.deps.json
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.runtimeconfig.json
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.dll
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\ShoppingSpree\bin\Debug\net6.0\ShoppingSpree.pdb
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.AssemblyInfoInputs.cache
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.AssemblyInfo.cs
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.csproj.CoreCompileInputs.cache
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.dll
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\ShoppingSpree\obj\Debug\net6.0\refint\ShoppingSpree.dll
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.pdb
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\ShoppingSpree\obj\Debug\net6.0\ShoppingSpree.genruntimeconfig.cache
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\ShoppingSpree\obj\Debug\net6.0\ref\ShoppingSpree.dll

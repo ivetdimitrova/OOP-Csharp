@@ -1,0 +1,14 @@
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\AnimalFarm\bin\Debug\net6.0\AnimalFarm.exe
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\AnimalFarm\bin\Debug\net6.0\AnimalFarm.deps.json
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\AnimalFarm\bin\Debug\net6.0\AnimalFarm.runtimeconfig.json
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\AnimalFarm\bin\Debug\net6.0\AnimalFarm.dll
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\AnimalFarm\bin\Debug\net6.0\AnimalFarm.pdb
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\AnimalFarm\obj\Debug\net6.0\AnimalFarm.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\AnimalFarm\obj\Debug\net6.0\AnimalFarm.AssemblyInfoInputs.cache
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\AnimalFarm\obj\Debug\net6.0\AnimalFarm.AssemblyInfo.cs
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\AnimalFarm\obj\Debug\net6.0\AnimalFarm.csproj.CoreCompileInputs.cache
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\AnimalFarm\obj\Debug\net6.0\AnimalFarm.dll
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\AnimalFarm\obj\Debug\net6.0\refint\AnimalFarm.dll
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\AnimalFarm\obj\Debug\net6.0\AnimalFarm.pdb
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\AnimalFarm\obj\Debug\net6.0\AnimalFarm.genruntimeconfig.cache
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\2.1.Encapsulation-Exercise\AnimalFarm\obj\Debug\net6.0\ref\AnimalFarm.dll

@@ -1,0 +1,14 @@
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\4.1.Polymorphism-Exercise\WildFarm\obj\Debug\net6.0\WildFarm.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\4.1.Polymorphism-Exercise\WildFarm\obj\Debug\net6.0\WildFarm.AssemblyInfoInputs.cache
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\4.1.Polymorphism-Exercise\WildFarm\obj\Debug\net6.0\WildFarm.AssemblyInfo.cs
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\4.1.Polymorphism-Exercise\WildFarm\obj\Debug\net6.0\WildFarm.csproj.CoreCompileInputs.cache
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\4.1.Polymorphism-Exercise\WildFarm\bin\Debug\net6.0\WildFarm.exe
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\4.1.Polymorphism-Exercise\WildFarm\bin\Debug\net6.0\WildFarm.deps.json
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\4.1.Polymorphism-Exercise\WildFarm\bin\Debug\net6.0\WildFarm.runtimeconfig.json
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\4.1.Polymorphism-Exercise\WildFarm\bin\Debug\net6.0\WildFarm.dll
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\4.1.Polymorphism-Exercise\WildFarm\bin\Debug\net6.0\WildFarm.pdb
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\4.1.Polymorphism-Exercise\WildFarm\obj\Debug\net6.0\WildFarm.dll
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\4.1.Polymorphism-Exercise\WildFarm\obj\Debug\net6.0\refint\WildFarm.dll
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\4.1.Polymorphism-Exercise\WildFarm\obj\Debug\net6.0\WildFarm.pdb
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\4.1.Polymorphism-Exercise\WildFarm\obj\Debug\net6.0\WildFarm.genruntimeconfig.cache
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\4.1.Polymorphism-Exercise\WildFarm\obj\Debug\net6.0\ref\WildFarm.dll

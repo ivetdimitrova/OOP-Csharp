@@ -1,0 +1,28 @@
+C:\Users\ivetd\source\repos\4.1.Polymorphism-Exercise\Vehicles\bin\Debug\net6.0\Vehicles.exe
+C:\Users\ivetd\source\repos\4.1.Polymorphism-Exercise\Vehicles\bin\Debug\net6.0\Vehicles.deps.json
+C:\Users\ivetd\source\repos\4.1.Polymorphism-Exercise\Vehicles\bin\Debug\net6.0\Vehicles.runtimeconfig.json
+C:\Users\ivetd\source\repos\4.1.Polymorphism-Exercise\Vehicles\bin\Debug\net6.0\Vehicles.dll
+C:\Users\ivetd\source\repos\4.1.Polymorphism-Exercise\Vehicles\bin\Debug\net6.0\Vehicles.pdb
+C:\Users\ivetd\source\repos\4.1.Polymorphism-Exercise\Vehicles\obj\Debug\net6.0\Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivetd\source\repos\4.1.Polymorphism-Exercise\Vehicles\obj\Debug\net6.0\Vehicles.AssemblyInfoInputs.cache
+C:\Users\ivetd\source\repos\4.1.Polymorphism-Exercise\Vehicles\obj\Debug\net6.0\Vehicles.AssemblyInfo.cs
+C:\Users\ivetd\source\repos\4.1.Polymorphism-Exercise\Vehicles\obj\Debug\net6.0\Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\ivetd\source\repos\4.1.Polymorphism-Exercise\Vehicles\obj\Debug\net6.0\Vehicles.dll
+C:\Users\ivetd\source\repos\4.1.Polymorphism-Exercise\Vehicles\obj\Debug\net6.0\refint\Vehicles.dll
+C:\Users\ivetd\source\repos\4.1.Polymorphism-Exercise\Vehicles\obj\Debug\net6.0\Vehicles.pdb
+C:\Users\ivetd\source\repos\4.1.Polymorphism-Exercise\Vehicles\obj\Debug\net6.0\Vehicles.genruntimeconfig.cache
+C:\Users\ivetd\source\repos\4.1.Polymorphism-Exercise\Vehicles\obj\Debug\net6.0\ref\Vehicles.dll
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\4.1.Polymorphism-Exercise\Vehicles\obj\Debug\net6.0\Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\4.1.Polymorphism-Exercise\Vehicles\obj\Debug\net6.0\Vehicles.AssemblyInfoInputs.cache
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\4.1.Polymorphism-Exercise\Vehicles\obj\Debug\net6.0\Vehicles.AssemblyInfo.cs
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\4.1.Polymorphism-Exercise\Vehicles\obj\Debug\net6.0\Vehicles.csproj.CoreCompileInputs.cache
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\4.1.Polymorphism-Exercise\Vehicles\obj\Debug\net6.0\Vehicles.dll
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\4.1.Polymorphism-Exercise\Vehicles\obj\Debug\net6.0\refint\Vehicles.dll
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\4.1.Polymorphism-Exercise\Vehicles\obj\Debug\net6.0\Vehicles.pdb
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\4.1.Polymorphism-Exercise\Vehicles\bin\Debug\net6.0\Vehicles.exe
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\4.1.Polymorphism-Exercise\Vehicles\bin\Debug\net6.0\Vehicles.deps.json
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\4.1.Polymorphism-Exercise\Vehicles\bin\Debug\net6.0\Vehicles.runtimeconfig.json
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\4.1.Polymorphism-Exercise\Vehicles\bin\Debug\net6.0\Vehicles.dll
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\4.1.Polymorphism-Exercise\Vehicles\bin\Debug\net6.0\Vehicles.pdb
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\4.1.Polymorphism-Exercise\Vehicles\obj\Debug\net6.0\Vehicles.genruntimeconfig.cache
+D:\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\4.1.Polymorphism-Exercise\Vehicles\obj\Debug\net6.0\ref\Vehicles.dll

@@ -1,0 +1,14 @@
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\6.SOLID\DetailPrinter\bin\Debug\net6.0\DetailPrinter.exe
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\6.SOLID\DetailPrinter\bin\Debug\net6.0\DetailPrinter.deps.json
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\6.SOLID\DetailPrinter\bin\Debug\net6.0\DetailPrinter.runtimeconfig.json
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\6.SOLID\DetailPrinter\bin\Debug\net6.0\DetailPrinter.dll
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\6.SOLID\DetailPrinter\bin\Debug\net6.0\DetailPrinter.pdb
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\6.SOLID\DetailPrinter\obj\Debug\net6.0\DetailPrinter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\6.SOLID\DetailPrinter\obj\Debug\net6.0\DetailPrinter.AssemblyInfoInputs.cache
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\6.SOLID\DetailPrinter\obj\Debug\net6.0\DetailPrinter.AssemblyInfo.cs
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\6.SOLID\DetailPrinter\obj\Debug\net6.0\DetailPrinter.csproj.CoreCompileInputs.cache
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\6.SOLID\DetailPrinter\obj\Debug\net6.0\DetailPrinter.dll
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\6.SOLID\DetailPrinter\obj\Debug\net6.0\refint\DetailPrinter.dll
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\6.SOLID\DetailPrinter\obj\Debug\net6.0\DetailPrinter.pdb
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\6.SOLID\DetailPrinter\obj\Debug\net6.0\DetailPrinter.genruntimeconfig.cache
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\6.SOLID\DetailPrinter\obj\Debug\net6.0\ref\DetailPrinter.dll

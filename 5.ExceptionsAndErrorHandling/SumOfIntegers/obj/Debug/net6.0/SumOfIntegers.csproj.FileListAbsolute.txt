@@ -1,0 +1,14 @@
+C:\Users\ivetd\source\repos\5.ExceptionsAndErrorHandling\SumOfIntegers\bin\Debug\net6.0\SumOfIntegers.exe
+C:\Users\ivetd\source\repos\5.ExceptionsAndErrorHandling\SumOfIntegers\bin\Debug\net6.0\SumOfIntegers.deps.json
+C:\Users\ivetd\source\repos\5.ExceptionsAndErrorHandling\SumOfIntegers\bin\Debug\net6.0\SumOfIntegers.runtimeconfig.json
+C:\Users\ivetd\source\repos\5.ExceptionsAndErrorHandling\SumOfIntegers\bin\Debug\net6.0\SumOfIntegers.dll
+C:\Users\ivetd\source\repos\5.ExceptionsAndErrorHandling\SumOfIntegers\bin\Debug\net6.0\SumOfIntegers.pdb
+C:\Users\ivetd\source\repos\5.ExceptionsAndErrorHandling\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivetd\source\repos\5.ExceptionsAndErrorHandling\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.AssemblyInfoInputs.cache
+C:\Users\ivetd\source\repos\5.ExceptionsAndErrorHandling\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.AssemblyInfo.cs
+C:\Users\ivetd\source\repos\5.ExceptionsAndErrorHandling\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.csproj.CoreCompileInputs.cache
+C:\Users\ivetd\source\repos\5.ExceptionsAndErrorHandling\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.dll
+C:\Users\ivetd\source\repos\5.ExceptionsAndErrorHandling\SumOfIntegers\obj\Debug\net6.0\refint\SumOfIntegers.dll
+C:\Users\ivetd\source\repos\5.ExceptionsAndErrorHandling\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.pdb
+C:\Users\ivetd\source\repos\5.ExceptionsAndErrorHandling\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.genruntimeconfig.cache
+C:\Users\ivetd\source\repos\5.ExceptionsAndErrorHandling\SumOfIntegers\obj\Debug\net6.0\ref\SumOfIntegers.dll

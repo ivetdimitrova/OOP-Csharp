@@ -1,0 +1,14 @@
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\6.SOLID\StreamProgressInfo\bin\Debug\net6.0\StreamProgressInfo.exe
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\6.SOLID\StreamProgressInfo\bin\Debug\net6.0\StreamProgressInfo.deps.json
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\6.SOLID\StreamProgressInfo\bin\Debug\net6.0\StreamProgressInfo.runtimeconfig.json
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\6.SOLID\StreamProgressInfo\bin\Debug\net6.0\StreamProgressInfo.dll
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\6.SOLID\StreamProgressInfo\bin\Debug\net6.0\StreamProgressInfo.pdb
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\6.SOLID\StreamProgressInfo\obj\Debug\net6.0\StreamProgressInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\6.SOLID\StreamProgressInfo\obj\Debug\net6.0\StreamProgressInfo.AssemblyInfoInputs.cache
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\6.SOLID\StreamProgressInfo\obj\Debug\net6.0\StreamProgressInfo.AssemblyInfo.cs
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\6.SOLID\StreamProgressInfo\obj\Debug\net6.0\StreamProgressInfo.csproj.CoreCompileInputs.cache
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\6.SOLID\StreamProgressInfo\obj\Debug\net6.0\StreamProgressInfo.dll
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\6.SOLID\StreamProgressInfo\obj\Debug\net6.0\refint\StreamProgressInfo.dll
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\6.SOLID\StreamProgressInfo\obj\Debug\net6.0\StreamProgressInfo.pdb
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\6.SOLID\StreamProgressInfo\obj\Debug\net6.0\StreamProgressInfo.genruntimeconfig.cache
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\6.SOLID\StreamProgressInfo\obj\Debug\net6.0\ref\StreamProgressInfo.dll

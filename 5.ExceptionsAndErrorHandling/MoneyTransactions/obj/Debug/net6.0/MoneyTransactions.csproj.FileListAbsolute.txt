@@ -1,0 +1,14 @@
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\5.ExceptionsAndErrorHandling\MoneyTransactions\bin\Debug\net6.0\MoneyTransactions.exe
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\5.ExceptionsAndErrorHandling\MoneyTransactions\bin\Debug\net6.0\MoneyTransactions.deps.json
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\5.ExceptionsAndErrorHandling\MoneyTransactions\bin\Debug\net6.0\MoneyTransactions.runtimeconfig.json
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\5.ExceptionsAndErrorHandling\MoneyTransactions\bin\Debug\net6.0\MoneyTransactions.dll
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\5.ExceptionsAndErrorHandling\MoneyTransactions\bin\Debug\net6.0\MoneyTransactions.pdb
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\5.ExceptionsAndErrorHandling\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\5.ExceptionsAndErrorHandling\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.AssemblyInfoInputs.cache
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\5.ExceptionsAndErrorHandling\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.AssemblyInfo.cs
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\5.ExceptionsAndErrorHandling\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.csproj.CoreCompileInputs.cache
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\5.ExceptionsAndErrorHandling\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.dll
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\5.ExceptionsAndErrorHandling\MoneyTransactions\obj\Debug\net6.0\refint\MoneyTransactions.dll
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\5.ExceptionsAndErrorHandling\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.pdb
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\5.ExceptionsAndErrorHandling\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.genruntimeconfig.cache
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\5.ExceptionsAndErrorHandling\MoneyTransactions\obj\Debug\net6.0\ref\MoneyTransactions.dll

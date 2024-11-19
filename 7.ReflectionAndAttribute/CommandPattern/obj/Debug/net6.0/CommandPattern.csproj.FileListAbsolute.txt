@@ -1,0 +1,14 @@
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\7.1.ReflectionAndAttribute-Exercise\CommandPattern\bin\Debug\net6.0\CommandPattern.exe
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\7.1.ReflectionAndAttribute-Exercise\CommandPattern\bin\Debug\net6.0\CommandPattern.deps.json
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\7.1.ReflectionAndAttribute-Exercise\CommandPattern\bin\Debug\net6.0\CommandPattern.runtimeconfig.json
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\7.1.ReflectionAndAttribute-Exercise\CommandPattern\bin\Debug\net6.0\CommandPattern.dll
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\7.1.ReflectionAndAttribute-Exercise\CommandPattern\bin\Debug\net6.0\CommandPattern.pdb
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\7.1.ReflectionAndAttribute-Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\7.1.ReflectionAndAttribute-Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.AssemblyInfoInputs.cache
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\7.1.ReflectionAndAttribute-Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.AssemblyInfo.cs
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\7.1.ReflectionAndAttribute-Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.csproj.CoreCompileInputs.cache
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\7.1.ReflectionAndAttribute-Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.dll
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\7.1.ReflectionAndAttribute-Exercise\CommandPattern\obj\Debug\net6.0\refint\CommandPattern.dll
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\7.1.ReflectionAndAttribute-Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.pdb
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\7.1.ReflectionAndAttribute-Exercise\CommandPattern\obj\Debug\net6.0\CommandPattern.genruntimeconfig.cache
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\7.1.ReflectionAndAttribute-Exercise\CommandPattern\obj\Debug\net6.0\ref\CommandPattern.dll

@@ -1,0 +1,14 @@
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\7.ReflectionАndAttributes-Lab\Stealer\bin\Debug\net6.0\Stealer.exe
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\7.ReflectionАndAttributes-Lab\Stealer\bin\Debug\net6.0\Stealer.deps.json
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\7.ReflectionАndAttributes-Lab\Stealer\bin\Debug\net6.0\Stealer.runtimeconfig.json
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\7.ReflectionАndAttributes-Lab\Stealer\bin\Debug\net6.0\Stealer.dll
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\7.ReflectionАndAttributes-Lab\Stealer\bin\Debug\net6.0\Stealer.pdb
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\7.ReflectionАndAttributes-Lab\Stealer\obj\Debug\net6.0\Stealer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\7.ReflectionАndAttributes-Lab\Stealer\obj\Debug\net6.0\Stealer.AssemblyInfoInputs.cache
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\7.ReflectionАndAttributes-Lab\Stealer\obj\Debug\net6.0\Stealer.AssemblyInfo.cs
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\7.ReflectionАndAttributes-Lab\Stealer\obj\Debug\net6.0\Stealer.csproj.CoreCompileInputs.cache
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\7.ReflectionАndAttributes-Lab\Stealer\obj\Debug\net6.0\Stealer.dll
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\7.ReflectionАndAttributes-Lab\Stealer\obj\Debug\net6.0\refint\Stealer.dll
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\7.ReflectionАndAttributes-Lab\Stealer\obj\Debug\net6.0\Stealer.pdb
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\7.ReflectionАndAttributes-Lab\Stealer\obj\Debug\net6.0\Stealer.genruntimeconfig.cache
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\7.ReflectionАndAttributes-Lab\Stealer\obj\Debug\net6.0\ref\Stealer.dll

@@ -1,0 +1,14 @@
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\7.ReflectionАndAttributes-Lab\AuthorProblem\bin\Debug\net6.0\AuthorProblem.exe
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\7.ReflectionАndAttributes-Lab\AuthorProblem\bin\Debug\net6.0\AuthorProblem.deps.json
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\7.ReflectionАndAttributes-Lab\AuthorProblem\bin\Debug\net6.0\AuthorProblem.runtimeconfig.json
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\7.ReflectionАndAttributes-Lab\AuthorProblem\bin\Debug\net6.0\AuthorProblem.dll
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\7.ReflectionАndAttributes-Lab\AuthorProblem\bin\Debug\net6.0\AuthorProblem.pdb
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\7.ReflectionАndAttributes-Lab\AuthorProblem\obj\Debug\net6.0\AuthorProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\7.ReflectionАndAttributes-Lab\AuthorProblem\obj\Debug\net6.0\AuthorProblem.AssemblyInfoInputs.cache
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\7.ReflectionАndAttributes-Lab\AuthorProblem\obj\Debug\net6.0\AuthorProblem.AssemblyInfo.cs
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\7.ReflectionАndAttributes-Lab\AuthorProblem\obj\Debug\net6.0\AuthorProblem.csproj.CoreCompileInputs.cache
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\7.ReflectionАndAttributes-Lab\AuthorProblem\obj\Debug\net6.0\AuthorProblem.dll
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\7.ReflectionАndAttributes-Lab\AuthorProblem\obj\Debug\net6.0\refint\AuthorProblem.dll
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\7.ReflectionАndAttributes-Lab\AuthorProblem\obj\Debug\net6.0\AuthorProblem.pdb
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\7.ReflectionАndAttributes-Lab\AuthorProblem\obj\Debug\net6.0\AuthorProblem.genruntimeconfig.cache
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\7.ReflectionАndAttributes-Lab\AuthorProblem\obj\Debug\net6.0\ref\AuthorProblem.dll

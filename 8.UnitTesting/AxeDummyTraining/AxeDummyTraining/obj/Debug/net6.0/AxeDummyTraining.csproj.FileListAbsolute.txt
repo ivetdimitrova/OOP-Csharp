@@ -1,0 +1,14 @@
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\8.UnitTesting-Lab\TestAxe\bin\Debug\net6.0\AxeDummyTraining.exe
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\8.UnitTesting-Lab\TestAxe\bin\Debug\net6.0\AxeDummyTraining.deps.json
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\8.UnitTesting-Lab\TestAxe\bin\Debug\net6.0\AxeDummyTraining.runtimeconfig.json
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\8.UnitTesting-Lab\TestAxe\bin\Debug\net6.0\AxeDummyTraining.dll
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\8.UnitTesting-Lab\TestAxe\bin\Debug\net6.0\AxeDummyTraining.pdb
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\8.UnitTesting-Lab\TestAxe\obj\Debug\net6.0\AxeDummyTraining.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\8.UnitTesting-Lab\TestAxe\obj\Debug\net6.0\AxeDummyTraining.AssemblyInfoInputs.cache
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\8.UnitTesting-Lab\TestAxe\obj\Debug\net6.0\AxeDummyTraining.AssemblyInfo.cs
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\8.UnitTesting-Lab\TestAxe\obj\Debug\net6.0\AxeDummyTraining.csproj.CoreCompileInputs.cache
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\8.UnitTesting-Lab\TestAxe\obj\Debug\net6.0\AxeDummyTraining.dll
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\8.UnitTesting-Lab\TestAxe\obj\Debug\net6.0\refint\AxeDummyTraining.dll
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\8.UnitTesting-Lab\TestAxe\obj\Debug\net6.0\AxeDummyTraining.pdb
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\8.UnitTesting-Lab\TestAxe\obj\Debug\net6.0\AxeDummyTraining.genruntimeconfig.cache
+D:\Programming\1.C#\C# Advanced - септември 2024\C# OOP - октомври 2024\8.UnitTesting-Lab\TestAxe\obj\Debug\net6.0\ref\AxeDummyTraining.dll
